@@ -1,2 +1,2 @@
 # PHLAME_comparisons
-A repo containing info for PHLAME's comparison experiments
+Code and data files are coming soon! For now, please visit our website at https://roahmlab.github.io/PHLAME/
